@@ -69,7 +69,7 @@ https://www.w3schools.com/css/default.asp
 ### Git/Github:
 
 <p align="center">
-  <img src="/images/githubLogo.png?raw=true" alt="Github Logo"/>
+  <img src="/images/githubLogo.png?raw=true" alt="Github Logo" style="max-width: 100px;" />
 </p>
 
 #### What is it?
