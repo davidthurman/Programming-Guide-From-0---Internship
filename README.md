@@ -68,6 +68,10 @@ https://www.w3schools.com/css/default.asp
 
 ### Git/Github:
 
+<p align="center">
+  <img src="/images/githubLogo.png?raw=true" alt="Github Logo"/>
+</p>
+
 #### What is it?
 
 Github is a website that people upload software projects to in order to share and/or work collaboratively on. If you upload a project to Github, other developers can view your projects and your code. If they think it would be a good idea to change or add something, they could pull down your code, make their changes, and upload it back up to you. From there you can either accept the changes or deny the request. 
@@ -102,10 +106,6 @@ pwd = Shows current working directory
 
 
 Git Commands:
-
-<p align="center">
-  <img src="/images/githubLogo.png?raw=true" alt="Github Logo"/>
-</p>
 
 *When you first upload a repository*:
 
