@@ -96,7 +96,7 @@ https://www.w3schools.com/css/default.asp
 1.Build a website that displays your favorite movies and tv shows. Each poster should link you back to the movie/tv show's IMBD site.
 
 <p align="center">
-  <img src="/images/myFavoriteMedia.png?raw=true" alt="Media Project"/>
+  <img src="/images/myFavoriteMediaProject.png?raw=true" alt="Media Project"/>
 </p>
 
 
