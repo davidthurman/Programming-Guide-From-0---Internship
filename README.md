@@ -34,7 +34,7 @@ Now that you have learned the basics of your first programming language, it's ti
 ## Step 2: HTML and CSS:
 
 <p align="center">
-  <img src="/images/htmlAndCss.svg?raw=true" alt="HTML Logo and CSS Logo"/>
+  <img src="/images/htmlAndCss.png?raw=true" alt="HTML Logo and CSS Logo"/>
 </p>
 
 ### Why HTML and CSS?
