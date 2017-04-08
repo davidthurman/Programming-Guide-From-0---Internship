@@ -109,6 +109,7 @@ Git Commands:
 
 *When you first upload a repository*:
 
+```git
 git init = initiates the current working directory with a git repository
 
 git add . = adds all files in this directory to your repository
@@ -118,6 +119,7 @@ git commit -m "Commit message" = Creates a commit with the current changes to up
 git remote add origin *github repository url* = Sets the local repository to look at the repository on Github you created
 
 git push --set-upstream origin master = Pushes the changes to your online repository
+```
 
 
 *When you make changes to a current repository*:
