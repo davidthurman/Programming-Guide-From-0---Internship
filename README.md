@@ -91,12 +91,21 @@ https://www.w3schools.com/css/default.asp
 *Note*: Do not feel discouraged if you are not able to absorb everything when going through the tutorials. The purpose of going through them is to get a basic understanding of how the two languages work together and not to retain every piece of information you read.
 
 
+### Projects:
+
+1.Build a website that displays your favorite movies and tv shows. Each poster should link you back to the movie/tv show's IMBD site.
+
+<p align="center">
+  <img src="/images/myFavoriteMedia.png?raw=true" alt="Media Project"/>
+</p>
+
+
 ## Other Resources:
 
 ### Git/Github:
 
 <p align="center">
-  <img src="/images/githubIcon.png?raw=true" alt="Github Logo" style="max-width: 100px;" />
+  <img src="/images/githubIcon.png?raw=true" alt="Github Logo"/>
 </p>
 
 #### What is it?
