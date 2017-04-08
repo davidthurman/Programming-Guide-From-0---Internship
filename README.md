@@ -95,14 +95,14 @@ General Commands to Know:
 <p align="center">
   <img src="/images/terminalPic.png?raw=true" alt="Github Logo"/>
 </p>
-
+```
 cd  *destination* = change your current directory 
 Ex:
 cd Desktop/WebProjects = Change the current directory to Desktop/WebProjects
 cd .. = Go back one directory (if you were in Desktop/WebProjects and input "cd .." you would then be in Desktop)
 
 pwd = Shows current working directory
-
+```
 
 
 Git Commands:
@@ -124,9 +124,10 @@ git push --set-upstream origin master = Pushes the changes to your online reposi
 
 *When you make changes to a current repository*:
 
+```git
 git add . = adds all files in this directory to your repository
 
 git commit -m "Commit message" = Creates a commit with the current changes to upload. Anything in the parenthesis is a commit message describing the changes
 
 git push = Pushes the changes to your online repository
-
+```
