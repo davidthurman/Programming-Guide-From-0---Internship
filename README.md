@@ -29,3 +29,34 @@ It is a very good introduction to programming for people with no background know
 3. a program to display your favorite movies in a website that also allows you to watch the trailers
 
 Now that you have learned the basics of your first programming language, it's time to move onto the foundations of website building.
+
+
+## Step 2: HTML and CSS:
+
+<p align="center">
+  <img src="/images/htmlAndCss.png?raw=true" alt="HTML Logo and CSS Logo"/>
+</p>
+
+### Why HTML and CSS?
+
+As with Python, I think HTML and CSS are important skills to have as a software developer regardless of whether you want to build apps or websites. HTML and CSS are the foundation of any website you see and as a developer, you are expected to be familiar with them.
+
+### What are they?
+
+If you were to think of a website as a house, HTML would be the structure of the house (the walls, doors, roof, etc) and CSS would be all of the things that decorate the house (paint, pictures, decorations, etc). HTML lays out the underlying structure of a website while CSS adds style to the site.
+
+### Where to Start?
+
+When it comes to HTML and CSS, my favorite reference site is w3schools.com. They have everything you might need to know for basic web development and the site works as a great cheat sheet. 
+
+To start with HTML I recommend starting here and completing w3schools tutorial:
+https://www.w3schools.com/html/default.asp
+
+*Note*: W3schools mentions text editors in its tutorial. Personally, I would recommend installing Sublime Text 3 as your go-to editor. It is made for programmers and allows for easy readibility of many types of programming languages:
+https://www.sublimetext.com/3
+
+
+And once you have a basic understanding of HTML, go ahead and start the CSS tutorial as well:
+https://www.w3schools.com/css/default.asp
+
+*Note*: Do not feel discouraged if you are not able to absorb everything when going through the tutorials. The purpose of going through them is to get a basic understanding of how the two languages work together and not to retain every piece of information you read.
