@@ -69,7 +69,7 @@ https://www.w3schools.com/css/default.asp
 ### Git/Github:
 
 <p align="center">
-  <img src="/images/githubLogo.png?raw=true" alt="Github Logo" style="max-width: 100px;" />
+  <img src="/images/githubIcon.png?raw=true" alt="Github Logo" style="max-width: 100px;" />
 </p>
 
 #### What is it?
@@ -93,7 +93,7 @@ https://www.youtube.com/watch?v=SWYqp7iY_Tc
 General Commands to Know:
 
 <p align="center">
-  <img src="/images/terminal.png?raw=true" alt="Github Logo"/>
+  <img src="/images/terminalPic.png?raw=true" alt="Github Logo"/>
 </p>
 
 cd  *destination* = change your current directory 
