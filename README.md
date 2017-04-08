@@ -7,6 +7,8 @@ I have tought several people how to become internship ready in software developm
 
 ## Step 1: Python
 
+![Alt text](/images/pythonLogo.png?raw=true "Python Logo")
+
 Whether your goal is to develop apps or websites, I recommend learning the basics of Python. Python is a general purpose programming language which means it can be used in many different situations. You can develop desktop applications with it like a word processor (think Microsoft Word) or a calculator. You can also use Python can also be used to build websites. Some big examples of this include Instagram, Pinterest, and the NASA website.
 
 To start learning the basics of Python, I usually refer people to this free course on Udacity:
