@@ -102,6 +102,7 @@ cd Desktop/WebProjects = Change the current directory to Desktop/WebProjects
 cd .. = Go back one directory (if you were in Desktop/WebProjects and input "cd .." you would then be in Desktop)
 
 pwd = Shows current working directory
+
 ```
 
 
