@@ -30,7 +30,16 @@ It is a very good introduction to programming for people with no background know
 
 ### Extra Projects:
 
-1. Try building a calculator in a Python script. The project should run like so:
+1. Write a script that tells the user which number is greater. The project should run like so:
+```
+Enter number one:
+>132
+Enter number two:
+>93
+Number one is greater
+```
+
+2. Try building a calculator in a Python script. The project should run like so:
 ```
 Enter number one:
 > 17
