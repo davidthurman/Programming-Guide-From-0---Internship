@@ -88,6 +88,10 @@ https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
 General Commands to Know:
 
+<p align="center">
+  <img src="/images/terminal.png?raw=true" alt="Github Logo"/>
+</p>
+
 cd  *destination* = change your current directory 
 Ex:
 cd Desktop/WebProjects = Change the current directory to Desktop/WebProjects
@@ -98,6 +102,10 @@ pwd = Shows current working directory
 
 
 Git Commands:
+
+<p align="center">
+  <img src="/images/githubLogo.png?raw=true" alt="Github Logo"/>
+</p>
 
 *When you first upload a repository*:
 
