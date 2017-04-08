@@ -28,9 +28,25 @@ It is a very good introduction to programming for people with no background know
 2. a program that sends texts to your phone
 3. a program to display your favorite movies in a website that also allows you to watch the trailers
 
+### Extra Projects:
+
+1. Try building a calculator in a Python script. The project should run like so:
+```
+Enter number one:
+> 17
+Enter number two:
+> 3
+Add(add), Subtract(subtract), Multiply(multiply), or Divide(divide)
+> add
+20
+```
+
 Now that you have learned the basics of your first programming language, it's time to move onto the foundations of website building.
 
-*Note*: If you want to dive 
+*Note*: If you want to dive further into Python, check out this great book that walks you through building several major projects in Python:
+
+https://www.amazon.com/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI/ref=sr_1_1?ie=UTF8&qid=1491667373&sr=8-1&keywords=python
+
 
 
 ## Step 2: HTML and CSS:
