@@ -52,7 +52,9 @@ Add(add), Subtract(subtract), Multiply(multiply), or Divide(divide)
 
 Now that you have learned the basics of your first programming language, it's time to move onto the foundations of website building.
 
-*Note*: If you want to dive further into Python, check out this great book that walks you through building several major projects in Python:
+#### Want more Python?
+
+If you want to dive further into Python, check out this great book that walks you through building several major projects in Python:
 
 https://www.amazon.com/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI/ref=sr_1_1?ie=UTF8&qid=1491667373&sr=8-1&keywords=python
 
