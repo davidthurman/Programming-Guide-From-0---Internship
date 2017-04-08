@@ -30,6 +30,8 @@ It is a very good introduction to programming for people with no background know
 
 Now that you have learned the basics of your first programming language, it's time to move onto the foundations of website building.
 
+*Note*: If you want to dive 
+
 
 ## Step 2: HTML and CSS:
 
@@ -60,3 +62,61 @@ And once you have a basic understanding of HTML, go ahead and start the CSS tuto
 https://www.w3schools.com/css/default.asp
 
 *Note*: Do not feel discouraged if you are not able to absorb everything when going through the tutorials. The purpose of going through them is to get a basic understanding of how the two languages work together and not to retain every piece of information you read.
+
+
+## Other Resources:
+
+### Git/Github:
+
+#### What is it?
+
+Github is a website that people upload software projects to in order to share and/or work collaboratively on. If you upload a project to Github, other developers can view your projects and your code. If they think it would be a good idea to change or add something, they could pull down your code, make their changes, and upload it back up to you. From there you can either accept the changes or deny the request. 
+
+#### Why do we need it?
+
+For our purposes, Github will act as a portfolio page for potential recruiters and employers to see your projects. Every project you work on will be uploaded to Github for people to see.
+
+#### Where to start?
+
+I recommend checking out this video for learning the basics of Github:
+
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+#### Cheat Sheet:
+
+##### From your terminal/command line:
+
+General Commands to Know:
+
+cd  *destination* = change your current directory 
+Ex:
+cd Desktop/WebProjects = Change the current directory to Desktop/WebProjects
+cd .. = Go back one directory (if you were in Desktop/WebProjects and input "cd .." you would then be in Desktop)
+
+pwd = Shows current working directory
+
+
+
+Git Commands:
+
+*When you first upload a repository*:
+
+git init = initiates the current working directory with a git repository
+
+git add . = adds all files in this directory to your repository
+
+git commit -m "Commit message" = Creates a commit with the current changes to upload. Anything in the parenthesis is a commit message describing the changes
+
+git remote add origin *github repository url* = Sets the local repository to look at the repository on Github you created
+
+git push --set-upstream origin master = Pushes the changes to your online repository
+
+
+*When you make changes to a current repository*:
+
+git add . = adds all files in this directory to your repository
+
+git commit -m "Commit message" = Creates a commit with the current changes to upload. Anything in the parenthesis is a commit message describing the changes
+
+git push = Pushes the changes to your online repository
+
