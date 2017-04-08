@@ -95,7 +95,7 @@ General Commands to Know:
 <p align="center">
   <img src="/images/terminalPic.png?raw=true" alt="Github Logo"/>
 </p>
-```
+```git
 cd  *destination* = change your current directory 
 Ex:
 cd Desktop/WebProjects = Change the current directory to Desktop/WebProjects
