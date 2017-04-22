@@ -132,7 +132,7 @@ General Commands to Know:
   <img src="/images/terminalPic.png?raw=true" alt="Github Logo"/>
 </p>
 ```git
-cd  *destination*
+cd  destination
 ```
 Change your current directory 
 
