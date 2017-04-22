@@ -131,27 +131,39 @@ General Commands to Know:
 <p align="center">
   <img src="/images/terminalPic.png?raw=true" alt="Github Logo"/>
 </p>
-cd  *destination* = change your current directory 
-Ex:
-cd Desktop/WebProjects = Change the current directory to Desktop/WebProjects
-cd .. = Go back one directory (if you were in Desktop/WebProjects and input "cd .." you would then be in Desktop)
+```git
+cd  *destination*
+```
+Change your current directory 
 
-pwd = Shows current working directory
+Example:
+```git
+cd Desktop/WebProjects 
+```
+Change the current directory to Desktop/WebProjects
+```git
+cd .. 
+```
+Go back one directory (if you were in Desktop/WebProjects and input "cd .." you would then be in Desktop)
+```git
+pwd
+```
+Shows current working directory
 
 
 
 Git Commands:
 
-*When you first upload a repository*:
+<b>*When you first upload a repository*</b>:
 
 ```git
 git init 
 ```
-initiates the current working directory with a git repository
+Initiates the current working directory with a git repository
 ```git
 git add . 
 ```
-adds all files in this directory to your repository
+Adds all files in this directory to your repository
 ```git
 git commit -m "Commit message" 
 ```
@@ -168,7 +180,7 @@ git push --set-upstream origin master
 Pushes the changes to your online repository
 
 
-*When you make changes to a current repository*:
+<b>*When you make changes to a current repository*</b>:
 
 ```git
 git add . 
