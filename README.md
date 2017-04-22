@@ -115,6 +115,10 @@ This is a great book to have for reference no matter your skill level and it pro
 
 ## Step 3: Javascript:
 
+<p align="center">
+  <img src="/images/javascriptLogo.png?raw=true" alt="Javascript Logo"/>
+</p>
+
 ### Why Javascript?
 Javascript is reponsible for all of the moving parts of a website and knowing it is a requirement for any web developer. 
 
