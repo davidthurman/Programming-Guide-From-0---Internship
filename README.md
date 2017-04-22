@@ -105,7 +105,7 @@ My personal favorite book on HTML and CSS would have to be:
 
 <p align="center">
 	<a href="https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1?ie=UTF8&qid=1492876018&sr=8-1&keywords=html+and+css">
-  		<img src="/images/htmlAndCss.jpg?raw=true" alt="HTML and CSS Book"/>
+  		<img src="/images/htmlAndCss.jpg?raw=true" alt="HTML and CSS Book" max-width="200px"/>
   	</a>
 </p>
 
