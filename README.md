@@ -145,24 +145,42 @@ Git Commands:
 *When you first upload a repository*:
 
 ```git
-git init = initiates the current working directory with a git repository
-
-git add . = adds all files in this directory to your repository
-
-git commit -m "Commit message" = Creates a commit with the current changes to upload. Anything in the parenthesis is a commit message describing the changes
-
-git remote add origin *github repository url* = Sets the local repository to look at the repository on Github you created
-
-git push --set-upstream origin master = Pushes the changes to your online repository
+git init 
 ```
+initiates the current working directory with a git repository
+```git
+git add . 
+```
+adds all files in this directory to your repository
+```git
+git commit -m "Commit message" 
+```
+Creates a commit with the current changes to upload. Anything in the parenthesis is a commit message describing the changes
+
+```git
+git remote add origin *github repository url* 
+```
+Sets the local repository to look at the repository on Github you created
+
+```git
+git push --set-upstream origin master 
+```
+Pushes the changes to your online repository
 
 
 *When you make changes to a current repository*:
 
 ```git
-git add . = adds all files in this directory to your repository
-
-git commit -m "Commit message" = Creates a commit with the current changes to upload. Anything in the parenthesis is a commit message describing the changes
-
-git push = Pushes the changes to your online repository
+git add . 
 ```
+Adds all files in this directory to your repository
+
+```git
+git commit -m "Commit message" 
+```
+Creates a commit with the current changes to upload. Anything in the parenthesis is a commit message describing the changes
+
+```git
+git push
+```
+Pushes the changes to your online repository
