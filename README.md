@@ -78,7 +78,7 @@ If you were to think of a website as a house, HTML would be the structure of the
 
 When it comes to HTML and CSS, my favorite reference site is w3schools.com. They have everything you might need to know for basic web development and the site works as a great cheat sheet. 
 
-To start with HTML I recommend starting here and completing w3schools tutorial:
+To start with HTML, I recommend starting here and completing w3schools tutorial:
 https://www.w3schools.com/html/default.asp
 
 *Note*: W3schools mentions text editors in its tutorial. Personally, I would recommend installing Sublime Text 3 as your go-to editor. It is made for programmers and allows for easy readibility of many types of programming languages:
@@ -99,6 +99,27 @@ https://www.w3schools.com/css/default.asp
   <img src="/images/myFavoriteMediaProject.png?raw=true" alt="Media Project"/>
 </p>
 
+#### Want More HTML and CSS?
+
+My personal favorite book on HTML and CSS would have to be: 
+
+<p align="center">
+	<a href="https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1?ie=UTF8&qid=1492876018&sr=8-1&keywords=html+and+css">
+  		<img src="/images/htmlAndCss.jpg?raw=true" alt="HTML and CSS Book"/>
+  	</a>
+</p>
+
+
+
+This is a great book to have for reference no matter your skill level and it provides almost anything you could need in HTML or CSS with easy to read examples.
+
+## Step 3: Javascript:
+
+### Why Javascript?
+Javascript is reponsible for all of the moving parts of a website and knowing it is a requirement for any web developer. 
+
+### What is it?
+If we continue with the same house analogy I used to explain HTML and CSS, Javascript would be all of the moving parts of your house such as your lights, electronics, temperature, etc. Almost any website you come across on the web will contain at least some Javascript.
 
 ## Other Resources:
 
