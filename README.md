@@ -126,7 +126,7 @@ https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
 ##### From your terminal/command line:
 
-General Commands to Know:
+<b>General Commands to Know</b>:
 
 <p align="center">
   <img src="/images/terminalPic.png?raw=true" alt="Github Logo"/>
@@ -154,7 +154,7 @@ Shows current working directory
 
 
 
-Git Commands:
+<b>Git Commands</b>:
 
 <b>*When you first upload a repository*</b>:
 
