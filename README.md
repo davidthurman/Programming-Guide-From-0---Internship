@@ -136,7 +136,7 @@ The makers of the HTML and CSS book I had recommended also made a great book on 
 
 <p align="center">
 	<a href="https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_1?ie=UTF8&qid=1492905184&sr=8-1&keywords=javascript+and+jquery">
-  		<img src="/images/javascriptAndJquery.jpg?raw=true" alt="Javascript and JQuery Book" width="500px"/>
+  		<img src="/images/javascriptAndJquery.png?raw=true" alt="Javascript and JQuery Book" width="200px"/>
   	</a>
 </p>
 
