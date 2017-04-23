@@ -125,6 +125,21 @@ Javascript is reponsible for all of the moving parts of a website and knowing it
 ### What is it?
 If we continue with the same house analogy I used to explain HTML and CSS, Javascript would be all of the moving parts of your house such as your lights, electronics, temperature, etc. Almost any website you come across on the web will contain at least some Javascript.
 
+### Where to Start?
+
+As with HTML and CSS, I always use w3schools for most things Javascript related. You can start by going through their tutorial at:
+https://www.w3schools.com/js/default.asp
+
+### Want More Javascript?
+
+The makers of the HTML and CSS book I had recommended also made a great book on Javascript and JQuery (We will get to JQuery soon):
+
+<p align="center">
+	<a href="https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_1?ie=UTF8&qid=1492905184&sr=8-1&keywords=javascript+and+jquery">
+  		<img src="/images/javascriptAndJquery.jpg?raw=true" alt="Javascript and JQuery Book" width="500px"/>
+  	</a>
+</p>
+
 ## Other Resources:
 
 ### Git/Github:
